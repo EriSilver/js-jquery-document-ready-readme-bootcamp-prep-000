@@ -3,6 +3,6 @@
 
 $("document").ready(function ()
 {
-  $("#text").append("this is so freaking cool.");
+  $("#text").append("<br/> this is so freaking cool.");
 })
 
